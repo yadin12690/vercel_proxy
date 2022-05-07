@@ -1,3 +1,9 @@
+## Tiny vercel proxy
+
+### By deploying your code (or running it locally with npm start) any call made to the /api endpoint will be proxied to https://example.org.
+
+Check the documentation of the http-proxy-middleware library (and of the node-http-proxy library, used under-the-hood) to learn how you can manipulate the proxied request & response.
+
 ## Deploy on your own Vercel instance
 
 #### [Check Out Step By Step Video Tutorial By @codeSTACKr](https://youtu.be/n6d4KHSKqGk?t=107)
